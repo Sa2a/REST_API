@@ -6,8 +6,8 @@ public class currencies {
 		return code;
 	}
 
-	public void setCode(String code) {
-		this.code = code;
+	public void setCode(String codex) {
+		this.code = codex;
 	}
 
 	public String getName() {
